@@ -1,6 +1,6 @@
 # clean_architecture
 
-Project to try the Clean Architecture implamantation
+Project to try the Clean Architecture implementation
 
 ## Getting Started
 
